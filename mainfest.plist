@@ -13,7 +13,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ipa/doudou.ipa</string>
+					<string>https://103.119.46.216/ipa/doudou.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -21,7 +21,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>images/icon1.png</string>
+					<string>https://103.119.46.216/images/icon1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>images/icon2.png</string>
+					<string>https://103.119.46.216/images/icon2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
