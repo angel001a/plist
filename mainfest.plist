@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-
+
+1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>items</key>
@@ -15,13 +17,17 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>images/icon1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>images/icon2.png</string>
 				</dict>
@@ -31,15 +37,11 @@
 				<key>bundle-identifier</key>
 				<string>com.xiushui.mj</string>
 				<key>bundle-version</key>
-				<string>1.8.0（版本号）</string>
+				<string>1.8.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>豆豆麻将</string>
-				<key>New item - 2</key>
-				<string></string>
-				<key>New item</key>
-				<string></string>
+				<string>com.xiushui.mj</string>
 			</dict>
 		</dict>
 	</array>
