@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>Ş­´ºÂé½«.ipa</string>
+					<string>ipa/è•²æ˜¥éº»å°†.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>icon1.png</string>
+					<string>images/icon1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>icon2.png</string>
+					<string>images/icon2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>Bundle ID£¨ĞèÒªÌîĞ´£©</string>
+				<string>com.xiushui.mj</string>
 				<key>bundle-version</key>
-				<string>1.1.0£¨°æ±¾ºÅ£©</string>
+				<string>1.1.0ï¼ˆç‰ˆæœ¬å·ï¼‰</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Ş­´ºÂé½«</string>
+				<string>è•²æ˜¥éº»å°†</string>
 				<key>New item - 2</key>
 				<string></string>
 				<key>New item</key>
