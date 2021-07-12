@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ipa/蕲春麻将.ipa</string>
+					<string>ipa/doudou.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>蕲春麻将</string>
+				<string>豆豆麻将</string>
 				<key>New item - 2</key>
 				<string></string>
 				<key>New item</key>
